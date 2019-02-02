@@ -1,0 +1,73 @@
+{
+  "S-CLASS": [
+    "Carcano Rifle",
+    "Bolt Action Rifle",
+    "Carbine Repeater",
+    "Rolling Block Rifle",
+    "Litchfield Repeater",
+    "Lancaster Repeater",
+    "Rare Rolling Block Rifle",
+    "Springfield Rifle"
+  ],
+  "A-CLASS": [
+    "Semi-Auto Shotgun",
+    "Pump Action Shotgun",
+    "Repeating Shotgun",
+    "Double-Barrel Shotgun",
+    "Sawed-Off Shotgun",
+    "Dynamite",
+    "Rare Shotgun",
+    "Fire Bottle",
+    "Volatile Dynamite",
+    "Volatile Fire Bottle"
+  ],
+  "B-CLASS": [
+    "Volcanic Pistol",
+    "Cattleman Revolver",
+    "Double-Action Revolver",
+    "Schofield Revolver",
+    "Algernon's Revolver",
+    "Calloway's Revolver",
+    "Flaco's Revolver",
+    "Granger's Revolver",
+    "John's Cattleman Revolver",
+    "Mauser Pistol",
+    "Micah's Revolver",
+    "Midnight's Pistol",
+    "Otis Miller's Revolver",
+    "Semi-Automatic Pistol",
+    "Varmint Rifle"
+  ],
+  "C-CLASS": [
+    "Stone Hatchet",
+    "Bow",
+    "Tomahawk",
+    "Ancient Tomahawk",
+    "Homing Tomahawk",
+    "Improved Throwing Knife",
+    "Improved Tomahawk",
+    "Poison Throwing Knife",
+    "Throwing Knife"
+  ],
+  "D-CLASS": [
+    "Broken Pirate Sword",
+    "Machete",
+    "Cleaver",
+    "Double Bit Hatchet",
+    "Hatchet",
+    "Hewing Hatchet",
+    "Hunter Hatchet",
+    "Rusted Double Bit Hatche",
+    "Viking Hatchet"
+  ],
+  "E-CLASS": [
+    "Hunting Knife",
+    "Antler Knife",
+    "Civil War Knife",
+    "Jawbone Knife",
+    "John's Knife",
+    "Ornate Dagger",
+    "Wide-Blade Knife",
+    "Unarmed"
+  ]
+}

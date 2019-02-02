@@ -1,0 +1,36 @@
+{
+  "S-CLASS": [
+    "Arabian"
+  ],
+  "A-CLASS": [
+    "Missouri Fox Trotter",
+    "Ardennes",
+    "Turkoman",
+    "Andalusian"
+  ],
+  "B-CLASS": [
+    "Hungarian Halfbred",
+    "Dutch Warmblood",
+    "American Paint",
+    "Mustang"
+  ],
+  "C-CLASS": [
+    "Nokota",
+    "American Standardbred",
+    "Thoroughbred"
+  ],
+  "D-CLASS": [
+    "Shire",
+    "Suffolk Punch",
+    "Belgian",
+    "Appaloosa"
+  ],
+  "E-CLASS": [
+    "Morgan",
+    "Kentucky Saddler",
+    "Tennessee Walker"
+  ],
+  "F-CLASS": [
+    "No F-CLASS Horses"
+  ]
+}

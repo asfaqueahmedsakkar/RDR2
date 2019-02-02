@@ -1,0 +1,234 @@
+{
+  "WEAPON": [
+    {
+      "Title": "Heavy Weapon Set",
+      "Effect": "Spawns a Heavy Weapon Set",
+      "Code": "Greed is American Virtue",
+      "Requirement": "Purchase a newspaper after completing the “Advertising, the New American Art” Chapter 3"
+    },
+    {
+      "Title": "Simple Weapon Set",
+      "Effect": "Spawns a Simple Weapon Set",
+      "Code": "A simple life, a beautiful death",
+      "Requirement": ""
+    },
+    {
+      "Title": "Stealth Weapon Set",
+      "Effect": "Spawns a Stealth Weapon Set",
+      "Code": "Death is silence",
+      "Requirement": ""
+    },
+    {
+      "Title": "Gunslinger Weapon Set",
+      "Effect": "Spawns a Gunslinger Weapon Set",
+      "Code": "History is written by fools",
+      "Requirement": ""
+    },
+    {
+      "Title": "Infinite Ammo",
+      "Effect": "Unlocks Infinite Ammo for All Guns",
+      "Code": "Abundance is the dullest desire",
+      "Requirement": "Newspaper located and purchased in Valentine, Chapter 1"
+    }
+  ],
+  "POWER UP": [
+    {
+      "Title": "Dead Eye Level 5",
+      "Effect": "Unlocks Level Dead Eye 5 Rank",
+      "Code": "I seek and I find",
+      "Requirement": ""
+    },
+    {
+      "Title": "Dead Eye Level 4",
+      "Effect": "Unlocks Level Dead Eye 4 Rank",
+      "Code": "I still seek more",
+      "Requirement": ""
+    },
+    {
+      "Title": "Dead Eye Level 3",
+      "Effect": "Unlocks Level Dead Eye 3 Rank",
+      "Code": "I shall be better",
+      "Requirement": ""
+    },
+    {
+      "Title": "Dead Eye Level 2",
+      "Effect": "Unlocks Level Dead Eye 2 Rank",
+      "Code": "Make me better",
+      "Requirement": ""
+    },
+    {
+      "Title": "Dead Eye Level 1",
+      "Effect": "Unlocks Level Dead Eye 1 Rank",
+      "Code": "Guide me better",
+      "Requirement": ""
+    },
+    {
+      "Title": "Infinite Dead Eye",
+      "Effect": "Infinite Dead Eye",
+      "Code": "Be greedy only for foresight",
+      "Requirement": ""
+    },
+    {
+      "Title": "Full Health, Stamina, and Dead Eye",
+      "Effect": "Completely Restores all bars for Health, Stamina, and Dead Eye",
+      "Code": "You flourish before you die",
+      "Requirement": ""
+    },
+    {
+      "Title": "Fully Restore and Fortify Health, Stamina, and Dead Eye",
+      "Effect": "Completely Restores and Fortify all bars for Health, Stamina, and Dead Eye",
+      "Code": "You Seek More Than The World Offers",
+      "Requirement": "Purchase a newspaper after completing the “The King’s Son” Chapter 6."
+    },
+    {
+      "Title": "Increase Health, Stamina, and Dead Eye Stats",
+      "Effect": "Increases Health, Stamina, and Dead Eye Statistics",
+      "Code": "Seek all the bounty of this place",
+      "Requirement": ""
+    },
+    {
+      "Title": "Infinite Stamina",
+      "Effect": "Unlocks Infinite Stamina",
+      "Code": "The lucky be strong evermore",
+      "Requirement": "Purchase a newspaper after completing Chapter 5."
+    },
+    {
+      "Title": "Raise Honor",
+      "Effect": "Increases Honor Rating",
+      "Code": "Virtue Unearned is not virtue",
+      "Requirement": "Purchase a newspaper after completing the “Urban Pleasures” Chapter 4."
+    },
+    {
+      "Title": "Decrease Honor",
+      "Effect": "Decrease Honor Rating",
+      "Code": "You revel in your disgrace, I see",
+      "Requirement": "Purchase a newspaper after completing the “Urban Pleasures” Chapter 4."
+    },
+    {
+      "Title": "Reset Honor",
+      "Effect": "When Activated reduces Honor to Neutral",
+      "Code": "Balance. All is balance",
+      "Requirement": ""
+    },
+    {
+      "Title": "Add $500",
+      "Effect": "Adds 500$",
+      "Code": "Greed is now a virtue",
+      "Requirement": ""
+    },
+    {
+      "Title": "Increase Horse Whistle Range",
+      "Effect": "Allows you to Call your horse from any distance in the game",
+      "Code": "Better than my dog",
+      "Requirement": ""
+    },
+    {
+      "Title": "Drunk",
+      "Effect": "Immediately become Drunk",
+      "Code": "A fool on command",
+      "Requirement": ""
+    },
+    {
+      "Title": "Increase Horse Bonding",
+      "Effect": "Raises your horse bonding with all your owned horses",
+      "Code": "My kingdom is a horse",
+      "Requirement": ""
+    }
+  ],
+  "WORLD": [
+    {
+      "Title": "Increase Wanted Level",
+      "Effect": "Increase Wanted Level in the game",
+      "Code": "You want punishment",
+      "Requirement": ""
+    },
+    {
+      "Title": "Decrease Wanted Level",
+      "Effect": "Decrease Wanted Level in the game",
+      "Code": "You want freedom",
+      "Requirement": ""
+    },
+    {
+      "Title": "Clear Bounties and Lockdowns",
+      "Effect": "Clear all bounties and lockdown areas",
+      "Code": "You want everyone to go away",
+      "Requirement": ""
+    },
+    {
+      "Title": "Fog of War",
+      "Effect": "Reveals Entire Map In Game, no more Fog of War. ",
+      "Code": "You Long for Sight but See Nothing",
+      "Requirement": "Purchase a newspaper after completing the “Blood Feuds, Ancient and Modern” Chapter 3."
+    }
+  ],
+  "SPAWN": [
+    {
+      "Title": "Race Horse",
+      "Effect": "Create Race Horse",
+      "Code": "Run! Run! Run!",
+      "Requirement": ""
+    },
+    {
+      "Title": "War Horse",
+      "Effect": "Create War Horse",
+      "Code": "You are a beast built for war",
+      "Requirement": "Purchase a newspaper after the events of the Epilogue."
+    },
+    {
+      "Title": "Superior Horse",
+      "Effect": "Create a Superior Horse",
+      "Code": "You want more than you have",
+      "Requirement": ""
+    },
+    {
+      "Title": "Wagon and Horse",
+      "Effect": "Create Wagon and Horse",
+      "Code": "Keep your dreams simple",
+      "Requirement": ""
+    },
+    {
+      "Title": "Horse and Cart",
+      "Effect": "Create Horse and Cart",
+      "Code": "Keep your dreams light",
+      "Requirement": ""
+    },
+    {
+      "Title": "Stagecoach",
+      "Effect": "Stagecoach",
+      "Code": "The best of the old ways",
+      "Requirement": ""
+    },
+    {
+      "Title": "Randomly Spawns a Horse ",
+      "Effect": "Create a Random Horse",
+      "Code": "You want something new",
+      "Requirement": ""
+    },
+    {
+      "Title": "Circus Wagon",
+      "Effect": "Create Circus Wagon",
+      "Code": "Would you be happier as a clown?",
+      "Requirement": "Purchase a newspaper after the events of the Epilogue."
+    }
+  ],
+  "UNLOCK": [
+    {
+      "Title": "Unlocks all Outfits",
+      "Effect": "Unlocks all Outfits",
+      "Code": "Vanity. All is vanity",
+      "Requirement": ""
+    },
+    {
+      "Title": "Unlock All Camp Upgrades",
+      "Effect": "Instantly obtain ledger upgrades and supply levels are maxed out",
+      "Code": "Share",
+      "Requirement": ""
+    },
+    {
+      "Title": "Unlock All Crafting Recipes",
+      "Effect": "You will learn all the crafting recipes, however, they will still cost ingredients to make",
+      "Code": "Eat of knowledge",
+      "Requirement": ""
+    }
+  ]
+}
